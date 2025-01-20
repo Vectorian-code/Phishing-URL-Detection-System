@@ -1,0 +1,7 @@
+streamlit==1.25.0  # Ensure this matches your Streamlit version
+pandas==1.5.3      # For dataset manipulation
+numpy==1.24.3      # For numerical computations
+matplotlib==3.7.1  # For plotting
+seaborn==0.12.2    # For enhanced visualizations
+scikit-learn==1.2.2 # For ML models and metrics
+whois==0.9.13      # For domain information

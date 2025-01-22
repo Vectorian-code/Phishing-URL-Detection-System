@@ -9,7 +9,7 @@ from scipy.sparse import hstack, csr_matrix
 import re
 import pickle
 from urllib.parse import urlparse
-from whois import whois
+import whois
 from datetime import datetime
 
 # Load Model and Vectorizer
